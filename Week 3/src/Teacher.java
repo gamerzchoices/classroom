@@ -1,11 +1,11 @@
 public class Teacher extends Person {
 
+    public String subject;
+    public double wage;
+
     Teacher(double height) {
         super(height);
     }
-
-    public String subject;
-    public double wage;
 
     public void infoNew() {
         info();

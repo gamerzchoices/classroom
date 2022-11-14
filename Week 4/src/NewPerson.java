@@ -9,7 +9,7 @@ public class NewPerson {
         this.salary = salary;
         this.address = address;
         this.name = "";
-        this.age = 0;
+        this.age = 1;
     }
 
     public String getName() {
